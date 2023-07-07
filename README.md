@@ -1,3 +1,14 @@
+*** Important Note***
+
+1. This project is made using the React and other tech like, MUI, Styled CSS.
+2. This Google Clone project and it's main functionality is google search engine.
+3. This Google Clone React App basically works for only search thing..with same as original google.
+4. Google free API is used so don't hope for the latest and real results of search.
+
+
+
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
