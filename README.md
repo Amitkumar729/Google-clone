@@ -4,6 +4,7 @@
 2. This Google Clone project and it's main functionality is google search engine.
 3. This Google Clone React App basically works for only search thing..with same as original google.
 4. Google free API is used so don't hope for the latest and real results of search.
+5. App link- https://clone-8b904.web.app/search
 
 
 
